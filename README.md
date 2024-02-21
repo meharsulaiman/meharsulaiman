@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sulaiman</h1>
 <h3 align="center">Jr. MERN Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meharsuleiman&label=Profile%20views&color=0e75b6&style=flat" alt="meharsuleiman" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meharsulaiman&label=Profile%20views&color=0e75b6&style=flat" alt="meharsulaiman" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meharsuleiman" alt="meharsuleiman" /></a> </p>
 
